@@ -6,7 +6,8 @@
 <p align="center"> <a href="https://twitter.com/sr_gvs" target="blank"><img src="https://img.shields.io/twitter/follow/sr_gvs?logo=twitter&style=for-the-badge" alt="sr_gvs" /></a> </p>
 <p align="center">
 - 🌱 I’m currently learning **JS, CSS, HTML and PHP**
-
+</p>
+<p align="center">
 - 📫 How to reach me **sr-gvs@pm.me**
 </p>
 <h3 align="center">Connect with me:</h3>
