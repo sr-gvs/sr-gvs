@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
+<h1 align="center">Hi, I'm Gustavo</h1>
 <h3 align="center">A passionate programmer in developement from Brazil</h3>
 <p align="center">
-- 🌱 I’m currently learning:
+- I’m currently learning:
 
 <div align="center">
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -11,9 +11,7 @@
 </div>
 
 </p>
-<p align="center">
-- 📫 How to reach me **sr-gvs@pm.me**
-</p>
+
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
