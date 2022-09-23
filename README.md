@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A passionate programmer in developement from Brazil</h3>
-
-<p align="center"> <a href="https://twitter.com/sr_gvs" target="blank"><img src="https://img.shields.io/twitter/follow/sr_gvs?logo=twitter&style=for-the-badge" alt="sr_gvs" /></a> </p>
 <p align="center">
-- 🌱 I’m currently learning **JS, CSS, HTML and PHP**
+- 🌱 I’m currently learning:
+
+<div align="center">
+<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+</div>
+
 </p>
 <p align="center">
 - 📫 How to reach me **sr-gvs@pm.me**
