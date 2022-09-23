@@ -29,6 +29,7 @@
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </div>
+<br>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sr-gvs&show_icons=true&theme=dracula&locale=en" alt="sr-gvs" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-profile-stats.vercel.app/api?username=sr-gvs&show_icons=true&theme=dracula&locale=en" alt="sr-gvs" /></div>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sr-gvs&show_icons=true&theme=dracula&locale=en" alt="sr-gvs" /></p>
-<div align="center">&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sr-gvs}&theme=dracula" alt="sr-gvs" /></div>
