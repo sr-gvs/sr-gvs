@@ -9,10 +9,13 @@
 - 📫 How to reach me **sr-gvs@pm.me**
 </p>
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/sr_gvs" target="blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  alt="sr-gvs" height="40"/>
-          </a>
+
+<div align="center">
+<a href="https://instagram.com/sr_gvs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto@sr-gvs@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>           
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+        
 <a href="https://linkedin.com/in/sr-gvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sr-gvs" height="30" width="40" /></a>
 <a href="https://instagram.com/sr_gvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sr_gvs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sr_gvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sr_gvs" height="30" width="40" /></a>
