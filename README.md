@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A passionate programmer in developement from Brazil</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sr-gvs" alt="sr-gvs" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/sr_gvs" target="blank"><img src="https://img.shields.io/twitter/follow/sr_gvs?logo=twitter&style=for-the-badge" alt="sr_gvs" /></a> </p>
 <p align="center">
 - 🌱 I’m currently learning **JS, CSS, HTML and PHP**
